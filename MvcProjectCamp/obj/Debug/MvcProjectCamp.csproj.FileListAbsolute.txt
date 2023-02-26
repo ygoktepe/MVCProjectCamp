@@ -77,3 +77,16 @@ C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\obj\Debug\M
 C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\obj\Debug\MvcProjectCamp.csproj.CopyComplete
 C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\obj\Debug\MvcProjectCamp.dll
 C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\obj\Debug\MvcProjectCamp.pdb
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\BusinessLayer.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\DataAccessLayer.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityLayer.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\BusinessLayer.pdb
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\BusinessLayer.dll.config
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\DataAccessLayer.pdb
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\DataAccessLayer.dll.config
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityLayer.pdb
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityLayer.dll.config
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.xml
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.SqlServer.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.SqlServer.xml
