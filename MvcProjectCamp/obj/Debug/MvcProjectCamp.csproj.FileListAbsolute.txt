@@ -90,3 +90,9 @@ C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityL
 C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.xml
 C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.SqlServer.dll
 C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\EntityFramework.SqlServer.xml
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\FluentValidation.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\FluentValidation.xml
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yasingoktepe\Desktop\projects\MvcProjectCamp\MvcProjectCamp\bin\System.Threading.Tasks.Extensions.xml
