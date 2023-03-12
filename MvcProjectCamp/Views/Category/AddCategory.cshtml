@@ -15,10 +15,10 @@
         @Html.ValidationMessageFor(x=>x.CategoryName)
         <br /> <br />
         @Html.Label("Write the description")
-        @Html.TextBoxFor(x => x.CategoryDescription)
+        @Html.TextAreaFor(x => x.CategoryDescription)
         @Html.ValidationMessageFor(x=>x.CategoryDescription)
         <br /><br />
-        <button>Save</button>
+        <button class="btn btn-info">Save</button>
 
     </div>
 }
